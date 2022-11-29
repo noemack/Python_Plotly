@@ -1,5 +1,4 @@
 # importar las bibliotecas necesarias, (en el caso de que la librería no esté realizar comando: pip install pandas)
-from turtle import title
 import pandas as pd
 import numpy as np
 import plotly.offline as pyo
